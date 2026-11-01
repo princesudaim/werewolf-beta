@@ -1,5 +1,5 @@
 # Werewolf
 
-Werewolf is an offline-ready party game Progressive Web App.
+Play the original offline-ready Werewolf PWA at <https://princesudaim.github.io/werewolf-beta/>.
 
-The published game is deployed to GitHub Pages from the `site` directory on `main` by the GitHub Actions workflow in `.github/workflows/pages.yml`.
+The finished website is deployed from `site/` by the GitHub Actions workflow at `.github/workflows/pages.yml`.
